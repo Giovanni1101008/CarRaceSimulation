@@ -17,12 +17,6 @@ Il vincitore può cambiare ad ogni esecuzione.
 - DistributoreBenzina
 - Pilota (Thread)
 - Main
-
-## Tecnologie utilizzate
-- Java
-- Programmazione a oggetti
-- Thread
-- GitHub
-
+- 
 ## Autore
 Giovanni Gasparini
