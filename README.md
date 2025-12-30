@@ -17,6 +17,6 @@ Il vincitore può cambiare ad ogni esecuzione.
 - DistributoreBenzina
 - Pilota (Thread)
 - Main
-- 
+  
 ## Autore
 Giovanni Gasparini
